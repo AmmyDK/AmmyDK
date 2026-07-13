@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Mengyu Pan 👋
+
+PhD student at Lund University
+
+## Research Interests
+
+- Single-cell RNA-seq
+- Single-cell ATAC-seq
+- Multiome
+- Vascular smooth muscle cells
+- Diabetes
+- eQTL
+- GTEx
+- Bioinformatics
+
+## Contact
+
+- GitHub: https://github.com/AmmyDK
+- Google Scholar: ...
+- ORCID: ...
