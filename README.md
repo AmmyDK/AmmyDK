@@ -21,9 +21,9 @@ PhD student at Lund University
 
 ## Research Interests
 
-- Spatial omics & Single-cell(sc-) RNA-seq
+- Population genetics 
 - scATAC-seq
-- Omics
+- Omics/Spatial omics & Single-cell(sc-) RNA-seq
 - Cardiovascular disease & Diabetes Complications
 - Brain and neurological disorders
 - eQTL
