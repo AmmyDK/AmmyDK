@@ -1,6 +1,6 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
 **AmmyDK/AmmyDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,22 +16,19 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Mengyu Pan 👋
-
+Hi there <br>
 PhD student at Lund University
 
 ## Research Interests
 
-- Single-cell RNA-seq
-- Single-cell ATAC-seq
-- Multiome
-- Vascular smooth muscle cells
-- Diabetes
+- Spatial omics & Single-cell(sc-) RNA-seq
+- scATAC-seq
+- Omics
+- Cardiovascular disease & Diabetes Complications
+- Brain and neurological disorders
 - eQTL
-- GTEx
-- Bioinformatics
+- Database
+- Bioinformatics/AI
+- ...
 
-## Contact
 
-- GitHub: https://github.com/AmmyDK
-- Google Scholar: ...
-- ORCID: ...
